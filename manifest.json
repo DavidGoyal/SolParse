@@ -1,0 +1,20 @@
+{
+	"name": "SolParse",
+	"version": "1.0.0",
+	"manifest_version": 3,
+	"description": "Parse transactions from the blockchain and display them in a readable format.",
+	"action": {
+		"default_title": "SolParse",
+		"default_popup": "index.html",
+		"default_icon": {
+			"16": "icon.png",
+			"48": "icon.png",
+			"128": "icon.png"
+		}
+	},
+	"icons": {
+		"16": "icon.png",
+		"48": "icon.png",
+		"128": "icon.png"
+	}
+}
